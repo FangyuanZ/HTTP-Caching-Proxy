@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gary/Desktop/http-proxy/Request.cpp
+Request.h
+/Users/gary/Desktop/http-proxy/Request.h
+
+/Users/gary/Desktop/http-proxy/Request.h
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+ostream
+-
+string
+-
+string.h
+-
+
+/Users/gary/Desktop/http-proxy/main.cpp
+iostream
+-
+string
+-
+string.h
+-
+sys/socket.h
+-
+netdb.h
+-
+unistd.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+Request.h
+/Users/gary/Desktop/http-proxy/Request.h
+

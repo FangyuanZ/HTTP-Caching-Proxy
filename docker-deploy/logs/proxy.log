@@ -1,0 +1,562 @@
+2: "GET http://xinhuanet.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:04 2019
+
+2: not in cache
+2: Requesting "GET http://xinhuanet.com/ HTTP/1.1" from xinhuanet.com
+2: Received "HTTP/1.1 200 OK" from xinhuanet.com
+2: Responding "HTTP/1.1 200 OK"
+3: "GET http://www.news.cn/sytxh.js HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+4: "GET http://www.news.cn/2015/js2015/rdgc_na.js HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+3: not in cache
+3: Requesting "GET http://www.news.cn/sytxh.js HTTP/1.1" from www.news.cn
+4: not in cache
+4: Requesting "GET http://www.news.cn/2015/js2015/rdgc_na.js HTTP/1.1" from www.news.cn
+6: "GET http://xinhuanet.com/politics/2018lh/iframe_rsbd.htm? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+5: "GET http://xinhuanet.com/politics/2018lh/iframe_test0316.htm? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+7: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+8: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+9: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+10: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+11: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+12: "GET http://xinhuanet.com/titlepic/112416/1124166844_1551256533822_title0h.png HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+13: "GET http://xinhuanet.com/ad/20180112/index/1000.htm HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+14: "GET http://xinhuanet.com/titlepic/112390/1123907169_1551320462582_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+15: "POST http://a3.xinhuanet.com/s? HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+16: "GET http://xinhuanet.com/index/ipdz/iframe_dz.html HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+17: "GET http://www.newsres.cn/temp/tempad201801241057/400left.htm HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+18: "GET http://www.newsres.cn/temp/tempad201801241057/400right.htm HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+19: "GET http://www.xinhuanet.com/titlepic/112267/1122673921_1523523069690_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+20: "GET http://www.xinhuanet.com/titlepic/111537/1115375296_1523152964710_title0h.png HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+21: "GET http://www.xinhuanet.com/titlepic/112415/1124150571_1550812345593_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+22: "GET http://www.xinhuanet.com/titlepic/112356/1123561594_1551064157396_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+23: "GET http://www.xinhuanet.com/titlepic/112417/1124173083_1551314208048_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+24: "GET http://www.xinhuanet.com/titlepic/112417/1124172428_1551308177169_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+25: "GET http://www.xinhuanet.com/titlepic/112417/1124173535_1551316117896_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+19: not in cache
+19: Requesting "GET http://www.xinhuanet.com/titlepic/112267/1122673921_1523523069690_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+20: not in cache
+20: Requesting "GET http://www.xinhuanet.com/titlepic/111537/1115375296_1523152964710_title0h.png HTTP/1.1" from www.xinhuanet.com
+24: not in cache
+24: Requesting "GET http://www.xinhuanet.com/titlepic/112417/1124172428_1551308177169_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+21: not in cache
+21: Requesting "GET http://www.xinhuanet.com/titlepic/112415/1124150571_1550812345593_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+22: not in cache
+22: Requesting "GET http://www.xinhuanet.com/titlepic/112356/1123561594_1551064157396_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+23: not in cache
+23: Requesting "GET http://www.xinhuanet.com/titlepic/112417/1124173083_1551314208048_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+25: not in cache
+25: Requesting "GET http://www.xinhuanet.com/titlepic/112417/1124173535_1551316117896_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+26: "GET http://www.xinhuanet.com/titlepic/112267/1122673921_1523523069690_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+27: "GET http://www.xinhuanet.com/titlepic/111537/1115375296_1523152964710_title0h.png HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:10 2019
+
+26: not in cache
+26: Requesting "GET http://www.xinhuanet.com/titlepic/112267/1122673921_1523523069690_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+27: not in cache
+27: Requesting "GET http://www.xinhuanet.com/titlepic/111537/1115375296_1523152964710_title0h.png HTTP/1.1" from www.xinhuanet.com
+6: not in cache
+6: Requesting "GET http://xinhuanet.com/politics/2018lh/iframe_rsbd.htm? HTTP/1.1" from xinhuanet.com
+5: not in cache
+5: Requesting "GET http://xinhuanet.com/politics/2018lh/iframe_test0316.htm? HTTP/1.1" from xinhuanet.com
+13: not in cache
+13: Requesting "GET http://xinhuanet.com/ad/20180112/index/1000.htm HTTP/1.1" from xinhuanet.com
+14: not in cache
+14: Requesting "GET http://xinhuanet.com/titlepic/112390/1123907169_1551320462582_title0h.jpg HTTP/1.1" from xinhuanet.com
+12: not in cache
+12: Requesting "GET http://xinhuanet.com/titlepic/112416/1124166844_1551256533822_title0h.png HTTP/1.1" from xinhuanet.com
+17: not in cache
+17: Requesting "GET http://www.newsres.cn/temp/tempad201801241057/400left.htm HTTP/1.1" from www.newsres.cn
+18: not in cache
+18: Requesting "GET http://www.newsres.cn/temp/tempad201801241057/400right.htm HTTP/1.1" from www.newsres.cn
+16: not in cache
+16: Requesting "GET http://xinhuanet.com/index/ipdz/iframe_dz.html HTTP/1.1" from xinhuanet.com
+12: Received "HTTP/1.1 200 OK" from xinhuanet.com
+12: Responding "HTTP/1.1 200 OK"
+6: Received "HTTP/1.1 200 OK" from xinhuanet.com
+6: Responding "HTTP/1.1 200 OK"
+5: Received "HTTP/1.1 200 OK" from xinhuanet.com
+5: Responding "HTTP/1.1 200 OK"
+13: Received "HTTP/1.1 200 OK" from xinhuanet.com
+13: Responding "HTTP/1.1 200 OK"
+14: Received "HTTP/1.1 200 OK" from xinhuanet.com
+14: Responding "HTTP/1.1 200 OK"
+16: Received "HTTP/1.1 200 OK" from xinhuanet.com
+16: Responding "HTTP/1.1 200 OK"
+28: "GET http://www.xinhuanet.com/titlepic/112255/1122550406_1521439173876_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+29: "GET http://www.xinhuanet.com/titlepic/112255/1122550473_1521283156135_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+30: "GET http://www.xinhuanet.com/titlepic/112255/1122555025_1521379781416_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+28: not in cache
+28: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122550406_1521439173876_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+31: "GET http://www.xinhuanet.com/titlepic/112253/1122537652_1521282709151_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+29: not in cache
+29: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122550473_1521283156135_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+32: "GET http://www.xinhuanet.com/titlepic/112255/1122550429_1521439098016_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+33: "GET http://www.xinhuanet.com/titlepic/112255/1122555073_1521384124544_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+30: not in cache
+30: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122555025_1521379781416_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+31: not in cache
+31: Requesting "GET http://www.xinhuanet.com/titlepic/112253/1122537652_1521282709151_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+34: "GET http://www.xinhuanet.com/titlepic/112255/1122555165_1521384490468_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+32: not in cache
+32: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122550429_1521439098016_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+35: "GET http://www.xinhuanet.com/titlepic/112255/1122555167_1521384713845_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+33: not in cache
+33: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122555073_1521384124544_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+34: not in cache
+34: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122555165_1521384490468_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+35: not in cache
+35: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122555167_1521384713845_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+36: "GET http://www.xinhuanet.com/titlepic/112256/1122565330_1521533669486_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+36: not in cache
+36: Requesting "GET http://www.xinhuanet.com/titlepic/112256/1122565330_1521533669486_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+38: "GET http://www.xinhuanet.com/titlepic/112256/1122566388_1521549359453_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+37: "GET http://www.xinhuanet.com/titlepic/112256/1122565315_1521533032504_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+40: "GET http://www.xinhuanet.com/titlepic/112255/1122552171_1521373771943_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+39: "GET http://www.xinhuanet.com/titlepic/112255/1122552172_1521373810444_title0h.jpg HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:16 2019
+
+38: not in cache
+38: Requesting "GET http://www.xinhuanet.com/titlepic/112256/1122566388_1521549359453_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+37: not in cache
+37: Requesting "GET http://www.xinhuanet.com/titlepic/112256/1122565315_1521533032504_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+40: not in cache
+40: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122552171_1521373771943_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+39: not in cache
+39: Requesting "GET http://www.xinhuanet.com/titlepic/112255/1122552172_1521373810444_title0h.jpg HTTP/1.1" from www.xinhuanet.com
+40: Received "HTTP/1.1 200 OK" from www.xinhuanet.com
+40: Responding "HTTP/1.1 200 OK"
+37: Received "HTTP/1.1 200 OK" from www.xinhuanet.com
+38: Received "HTTP/1.1 200 OK" from www.xinhuanet.com
+38: Responding "HTTP/1.1 200 OK"
+37: Responding "HTTP/1.1 200 OK"
+39: Received "HTTP/1.1 200 OK" from www.xinhuanet.com
+39: Responding "HTTP/1.1 200 OK"
+41: "CONNECT tiles.services.mozilla.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:17 2019
+
+42: "POST http://ocsp.digicert.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:17 2019
+
+43: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:17 2019
+
+44: "CONNECT www.google.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:18 2019
+
+45: "CONNECT www.google.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:20 2019
+
+47: "CONNECT adservice.google.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:21 2019
+
+48: "CONNECT www.youtube.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:27 2019
+
+49: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:27 2019
+
+50: "CONNECT i.ytimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+51: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+52: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+53: "CONNECT fonts.gstatic.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+54: "CONNECT accounts.google.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+55: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+56: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+57: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:30 2019
+
+58: "CONNECT pubads.g.doubleclick.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:31 2019
+
+59: "CONNECT ad.doubleclick.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:31 2019
+
+60: "CONNECT securepubads.g.doubleclick.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:31 2019
+
+61: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:31 2019
+
+62: "CONNECT secure.insightexpressai.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:31 2019
+
+63: "CONNECT static.doubleclick.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:32 2019
+
+65: "CONNECT r3---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:34 2019
+
+66: "CONNECT r3---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:34 2019
+
+67: "CONNECT www.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:34 2019
+
+68: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:34 2019
+
+70: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+71: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+69: "CONNECT mybbc.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+72: "CONNECT ichef.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+74: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+75: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+73: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+79: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+76: "CONNECT ichef.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+77: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+78: "CONNECT mybbc.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+80: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+83: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+81: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+82: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+84: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+85: "CONNECT homepage.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+86: "CONNECT nav.files.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:37 2019
+
+87: "CONNECT fig.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:38 2019
+
+88: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:39 2019
+
+89: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:39 2019
+
+90: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:39 2019
+
+91: "CONNECT idcta.api.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:39 2019
+
+92: "CONNECT r2---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+93: "CONNECT r2---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+94: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+95: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+98: "CONNECT www.bbc.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+97: "CONNECT logws1363.ati-host.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+96: "CONNECT logws1363.ati-host.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+99: "CONNECT logws1363.ati-host.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+100: "CONNECT ichef.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:47 2019
+
+101: "POST http://status.thawte.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+102: "POST http://status.thawte.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+103: "POST http://status.thawte.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+104: "CONNECT bbc.gscontxt.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+105: "CONNECT ad.crwdcntrl.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+106: "CONNECT www.googletagservices.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+107: "CONNECT ssc.api.bbc.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+108: "CONNECT a1.api.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:48 2019
+
+109: "CONNECT secure-us.imrworldwide.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+110: "POST http://ocsp.godaddy.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+111: "POST http://ocsp2.globalsign.com/gsalphasha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+112: "CONNECT dts.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+113: "CONNECT s.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+114: "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+115: "CONNECT s.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+116: "CONNECT secure-gg.imrworldwide.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+117: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+118: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+119: "POST http://ocsp.digicert.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:49 2019
+
+120: "GET http://www.bbc.com/capital/story/20190227-how-to-tell-your-boss-youre-sick-and-why-you-should HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:50 2019
+
+120: not in cache
+120: Requesting "GET http://www.bbc.com/capital/story/20190227-how-to-tell-your-boss-youre-sick-and-why-you-should HTTP/1.1" from www.bbc.com
+121: "CONNECT ib.3lift.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+122: "CONNECT bs.serving-sys.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+123: "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+124: "CONNECT pixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+126: "POST http://status.rapidssl.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+125: "CONNECT pixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+127: "POST http://status.rapidssl.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+130: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+129: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+131: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+133: "POST http://ocsp.digicert.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+132: "POST http://status.rapidssl.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+134: "POST http://ocsp.godaddy.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:51 2019
+
+135: "CONNECT tlx.3lift.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:52 2019
+
+136: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+137: "CONNECT ag.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+138: "CONNECT nym1-ib.adnxs.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+140: "CONNECT img.3lift.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+139: "CONNECT eb2.3lift.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+141: "CONNECT tps30.doubleverify.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+142: "CONNECT cdn.adnxs.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+143: "POST http://ocsp.netsolssl.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:53 2019
+
+144: "CONNECT www.facebook.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:54 2019
+
+145: "POST http://ocsp.digicert.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:40:54 2019
+
+146: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:01 2019
+
+147: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:01 2019
+
+148: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:01 2019
+
+151: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:02 2019
+
+150: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:02 2019
+
+149: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:02 2019
+
+152: "GET http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-website-mla/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:03 2019
+
+152: not in cache
+152: Requesting "GET http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-website-mla/ HTTP/1.1" from www.easybib.com
+154: "CONNECT clients1.google.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:06 2019
+
+155: "POST http://ocsp.pki.goog/GTSGIAG3 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:06 2019
+
+156: "CONNECT bbc.gscontxt.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+157: "CONNECT ad.crwdcntrl.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+159: "CONNECT static.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+161: "CONNECT static.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+160: "CONNECT static.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+162: "POST http://ocsp.godaddy.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+163: "POST http://ocsp2.globalsign.com/gsalphasha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+164: "CONNECT log.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:14 2019
+
+165: "POST http://status.thawte.com/ HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+166: "CONNECT ssc.api.bbc.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+168: "CONNECT static.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+169: "CONNECT nym1-ib.adnxs.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+170: "CONNECT polling.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+171: "CONNECT emp.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+172: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+173: "CONNECT a1.api.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+175: "CONNECT imasdk.googleapis.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:15 2019
+
+176: "CONNECT s0.2mdn.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+177: "CONNECT r.bbci.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+178: "CONNECT open.live.bbc.co.uk:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+180: "CONNECT secure-us.imrworldwide.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+179: "CONNECT odb.outbrain.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+181: "CONNECT ssc.api.bbc.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:16 2019
+
+182: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+183: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+184: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+185: "CONNECT ib.adnxs.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+186: "CONNECT sb.scorecardresearch.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+187: "CONNECT log.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:17 2019
+
+188: "CONNECT sb.scorecardresearch.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+189: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+190: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+191: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+192: "CONNECT log.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+193: "CONNECT sync.outbrain.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:18 2019
+
+194: "CONNECT collector.effectivemeasure.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+195: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+197: "CONNECT log.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+198: "CONNECT pixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+199: "CONNECT vod-dash-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+200: "CONNECT vod-dash-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+201: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+202: "CONNECT images.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+203: "CONNECT log.outbrainimg.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+204: "CONNECT pxltopxl.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:19 2019
+
+205: "CONNECT rtr.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+207: "CONNECT sb.scorecardresearch.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+206: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+208: "CONNECT s-static.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+209: "CONNECT pixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+211: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+210: "CONNECT spixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:20 2019
+
+212: "CONNECT s.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+213: "CONNECT ag.innovid.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+215: "CONNECT sc.iasds01.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+214: "CONNECT spixel.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+216: "CONNECT idsync.rlcdn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+217: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+218: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+219: "CONNECT static.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+220: "CONNECT widgets.outbrain.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:21 2019
+
+221: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+222: "CONNECT d.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+223: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 10.197.222.70 @ Thu Feb 28 04:41:23 2019
+
+223: not in cache
+223: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+224: "CONNECT dt.adsafeprotected.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+225: "CONNECT match.adsrvr.org:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+226: "CONNECT sync.mathtag.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+227: "CONNECT i.liadm.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:23 2019
+
+228: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:24 2019
+
+229: "CONNECT ssum.casalemedia.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:24 2019
+
+230: "CONNECT d.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:24 2019
+
+231: "CONNECT d.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:25 2019
+
+232: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:26 2019
+
+233: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:26 2019
+
+234: "CONNECT x.bidswitch.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:27 2019
+
+235: "CONNECT vod-thumb-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:27 2019
+
+237: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:27 2019
+
+236: "CONNECT aa.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:27 2019
+
+238: "CONNECT d.agkn.com:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:27 2019
+
+241: "CONNECT vod-thumb-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:28 2019
+
+242: "CONNECT vod-thumb-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:28 2019
+
+240: "CONNECT vod-thumb-ww-live.akamaized.net:443 HTTP/1.1" from 10.197.113.18 @ Thu Feb 28 04:41:28 2019
+
+243: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 10.197.222.70 @ Thu Feb 28 04:41:30 2019
+
+243: not in cache
+243: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
